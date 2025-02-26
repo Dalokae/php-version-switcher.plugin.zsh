@@ -6,7 +6,7 @@ This is an [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) plugin to swit
 
 ```
 cd ~/.oh-my-zsh/custom/plugins
-git clone https://github.com/Akollade/php-version-switcher.plugin.zsh php-version-switcher
+git clone https://github.com/Dalokae/php-version-switcher.plugin.zsh php-version-switcher
 ```
 
 Edit `~/.zshrc` to enable the plugin and set the PHP path template:
